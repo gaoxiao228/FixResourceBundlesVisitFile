@@ -1,0 +1,2 @@
+# FixResourceBundlesVisitFile
+解决Cocoapods私有库里使用resource_bundles导致原本项目里访问不到资源的问题
